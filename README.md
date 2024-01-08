@@ -1,4 +1,5 @@
-- ========👋 Hi, I’m @idusam220 =================
+- ========👋 Hi, I’m Samuel Iduherubuntu =================
+- I have a bachelor's degree in IT
 - 👀 I’m currently interested in working as a QA 
 - 🌱 I’m currently learning java,SQL,HTML SDLC Aproaches ,Selenium
 - 💞️ I’m looking to collaborate with anyone learning java, HTML,SQL,Selenium
