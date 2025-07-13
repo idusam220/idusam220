@@ -1,3 +1,3 @@
 - ========👋 Hi, I’m Samuel Iduherubuntu =================
 - I have a bachelor's degree in IT
-- 👀 I’m currently a QA (Automation Tester).
+- 👀 I’m currently a QA Engineer (Automation Tester).
